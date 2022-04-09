@@ -1,0 +1,181 @@
+@charset "UTF-8";
+
+body {
+	background-color: #fff4e2;
+    /**background-image: url(./images/background_repeat.png);**/
+	background-repeat: repeat-x;
+}
+
+#container {
+	height: 2478px;
+	width: 900px;
+	background-color: #fff4e2;
+	background-image: url(./images/background_v3.jpeg);
+	background-position: left top;
+	margin-top: -8px;
+	margin-right: 0px;
+	margin-left: -9px;
+	bottom: -5px;
+	margin-bottom: -17px;
+}
+#container #sidetext1 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: italic;
+	text-decoration: none;
+	color: #B8E5A5;
+	list-style-type: none;
+}
+
+#container #sidetext1 a:hover {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: italic;
+	text-decoration: underline;
+	color: #330033;
+	list-style-type: none;
+}
+
+h4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #393e14;
+	margin-top: -12px;
+}
+
+#maintext {
+	height: auto;
+	width: 75mm;
+	position: absolute;
+	left: 314px;
+	top: 218px;
+}
+
+h3 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #393e14;
+	font-weight: normal;
+	text-align: center;
+	font-style: normal;
+	line-height: 16px;
+}
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #DFC1C3;
+	letter-spacing: 0.03em;
+	text-align: center;
+	line-height: 18px;
+}
+#sidetext1 {
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	left: 94px;
+	top: 302px;
+}
+
+#sidetext2 {
+	height: 100px;
+	width: 127px;
+	position: absolute;
+	left: 582px;
+	top: 459px;
+}
+
+#sidetext3 {
+	height: 100px;
+	width: 127px;
+	position: absolute;
+	left: 620px;
+	top: 536px;
+}
+
+#container #sidetext3 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	list-style-type: none;
+	color: #E0E0E0;
+	text-decoration: none;
+	text-align: left;
+	font-style: normal;
+}
+
+#container #sidetext3 a:hover {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	list-style-type: none;
+	color: #330000;
+	text-decoration: underline;
+	text-align: left;
+	font-style: italic;
+}
+
+#container #sidetext3 li {
+	list-style-type: none;
+	width: 200px;
+	line-height: 21px;
+	font-weight: normal;
+	text-align: left;
+}
+
+#container #sidetext1 li {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #E4E4E4;
+	font-style: italic;
+	list-style-type: none;
+	margin-top: 13px;
+	line-height: 15.3px;
+	text-transform: none;
+	font-weight: normal;
+}
+#container #sidetext2 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	list-style-type: none;
+	color: #B8E5A5;
+	text-decoration: none;
+	text-align: center;
+	font-style: italic;
+}
+
+#container #sidetext2 a:hover {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	list-style-type: none;
+	color: #330000;
+	text-decoration: underline;
+	text-align: center;
+	font-style: italic;
+}
+
+#container #sidetext2 li {
+	list-style-type: none;
+	width: 200px;
+	line-height: 23px;
+	font-weight: normal;
+	text-align: center;
+}
+#container #maintext a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-variant: small-caps;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
+	color: #993333;
+}
+#container #maintext a:hover {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-variant: small-caps;
+	text-decoration: overline;
+	font-style: normal;
+	font-weight: normal;
+	color: #660033;
+}
